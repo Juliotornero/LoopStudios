@@ -1,0 +1,38 @@
+.figure{
+    width: 100%;
+    max-width: 800px;
+    height: 500px;
+    background-image: url('/assets/images/desktop/image-interactive.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.first_section .info{
+    width: 750px;
+    height: 350px;
+    padding: 0;
+    padding-bottom: 0;
+    padding-left: 100px;
+    padding-top: 70px;
+    position: absolute;
+    background-color: white;
+    right: 350px;
+    bottom: 0;
+    text-align: left;
+}
+
+.first_section h2{
+    font-size: 60px;
+    margin-bottom: 30px;
+    font-weight: 300;
+    color:black;
+}
+
+.first_section p{
+    font-size: 20px;
+    line-height: 1.7;
+    font-weight: bold;
+    color: hsl(0, 0%, 55%);
+}
